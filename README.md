@@ -53,12 +53,12 @@
 ### 🔥 Статистика:
 
 <div align="center">
-  <!-- Отдельный div для первой картинки с отступом -->
   <div style="margin-bottom: 20px;">
-    <img src="https://streak-stats.demolab.com?user=nakolotnik&theme=dark&hide_border=false" height="150" alt="streak graph" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nakolotnik&theme=aura_dark)](https://git.io/streak-stats)
+  
   </div>
 
-  <!-- Div для двух картинок в ряд -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
     <img src="https://github-readme-stats.vercel.app/api?username=nakolotnik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakolotnik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" style="max-width: 100%;" alt="languages graph" />
